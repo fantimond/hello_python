@@ -2,4 +2,7 @@
 the first project
 
 the first line edited.
-\nThis is the second line.
+
+This is the second line.
+
+And this is the third line.
